@@ -34,6 +34,10 @@
   <a href="https://docs.microsoft.com/en-us/cpp/cpp/">
     <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_cpp3.svg" alt="cpp c plus plus" height="32px" />
   </a>
+  <!-- asm -->
+  <a href="https://docs.microsoft.com/en-us/cpp/assembler/masm/microsoft-macro-assembler-reference">
+    <img src="https://docs.microsoft.com/en-us/cpp/media/index/logo-asm.svg" alt="asm" height="32px" />
+  </a>
   <!-- Javascript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference">
     <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_js_official.svg" alt="javascript" height="32px" />
@@ -45,10 +49,6 @@
   <!-- css -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_css.svg" alt="css" height="32px" />
-  </a>
-  <!-- asm -->
-  <a href="https://docs.microsoft.com/en-us/cpp/assembler/masm/microsoft-macro-assembler-reference">
-    <img src="https://docs.microsoft.com/en-us/cpp/media/index/logo-asm.svg" alt="asm" height="32px" />
   </a>
   <!-- markdown -->
   <a href="https://www.markdownguide.org/">
@@ -120,8 +120,8 @@
   </a>
   <!-- docker -->
   <a href="https://www.docker.com/">
-    <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_docker2.svg" alt="docker" height="40px" />
-  </a>
+    <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="docker" height="30px" />
+  </a>  
   <!-- linux -->
   <a href="https://www.linux.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" height="32px" />
