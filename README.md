@@ -1,6 +1,6 @@
 ### Hi, I'm Lisa
 
-<a href="https://www.linkedin.com/in/lisafanbettcher/" style="color: inherit">
+<a href="https://www.linkedin.com/in/lisafanbettcher/" target="_blank">
   <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="icon of linkedIn" width="16px" />
   Let's connect!
 </a>
@@ -11,8 +11,10 @@
 👩‍🏫 Data Structures TA at OSU  
 📍 &nbsp; Located in Seattle, WA
 
+##### Career 1.0
 👩‍🔬 Formerly a Research Scientist at UW  
-📄 Co-authored 13 publications in peer-reviewed journals
+📄 Co-authored 13 publications in peer-reviewed journals  
+🐊 B.S. Chemistry from UF
 <!--
 **lfbettcher/lfbettcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
