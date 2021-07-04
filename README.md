@@ -1,4 +1,4 @@
-### Hi, I'm Lisa
+### Hi, I'm Lisa.
 
 <a href="https://www.linkedin.com/in/lisafanbettcher/" target="_blank">
   <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="icon of Linkedin" width="16px" />
@@ -9,14 +9,18 @@
 💻 Software Engineering Intern at Delphix  
 🎓 B.S. Computer Science Senior at OSU  
 👩‍🏫 Data Structures TA at OSU  
-📍 &nbsp; Located in Seattle, WA
+📍 &nbsp; Located in Seattle, WA  
+
+<p><b>I recently completed a 20-week coding bootcamp! </b>
+  <br >See my work <a href="https://github.com/lfbettcher/Launch-Academy#readme">here</a>.
+</p>
 
 #### I have experience with:
 ##### Languages
 <span>
   <!-- Java -->
   <a href="https://docs.oracle.com/en/java/javase/11/docs/api/index.html">
-    <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_jar.svg" alt="java" height="38px" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java" height="44px" />
   </a>
   <!-- Python -->
   <a href="https://www.python.org/">
