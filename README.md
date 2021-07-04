@@ -60,7 +60,7 @@
   </a>
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org/docs/">
-    <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_pgsql.svg" alt="postgresql" height="32px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" height="30px" />
   </a>
   <!-- MySQL -->
   <a href="https://dev.mysql.com/doc/">
@@ -89,6 +89,14 @@
   <!-- node -->
   <a href="https://nodejs.org/en/docs/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" height="32px" />
+  </a>
+  <!-- Hibernate -->
+  <a href="https://hibernate.org/">
+    <img src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" alt="hibernate framework" height="32px" />
+  </a>
+  <!-- Flyway -->
+  <a href="https://flywaydb.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Flyway_logo.svg" alt="flyway" height="36px" />
   </a>
 </span>
 
