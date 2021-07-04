@@ -54,10 +54,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_css.svg" alt="css" height="32px" />
   </a>
-  <!-- markdown -->
-  <a href="https://www.markdownguide.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="markdown" height="24px" />
-  </a>
   <!-- latex -->
   <a href="https://www.latex-project.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" height="24px" />
