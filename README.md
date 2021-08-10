@@ -11,7 +11,8 @@
 👩‍🏫 Data Structures TA at OSU  
 📍 &nbsp; Located in Seattle, WA  
 
-<p><b>I recently completed a 20-week coding bootcamp! </b>
+
+<p><b>I completed a 20-week pre-apprenticeship technical training: </b>
   <br >See my work <a href="https://github.com/lfbettcher/Launch-Academy#readme">here</a>.
 </p>
 
