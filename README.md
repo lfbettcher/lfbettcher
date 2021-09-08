@@ -2,13 +2,13 @@
 
 <a href="https://www.linkedin.com/in/lisafanbettcher/" target="_blank">
   <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="icon of Linkedin" width="16px" />
-  Let's connect!
+  &nbsp;Let's connect!
 </a>
 
 #### I am currently:
-💻 Software Engineering Intern at Delphix  
-🎓 B.S. Computer Science Senior at OSU  
-👩‍🏫 Data Structures TA at OSU  
+💻 &nbsp; Software Engineer at Delphix  
+🎓 &nbsp; B.S. Computer Science Senior at OSU  
+👩‍🏫 &nbsp; Data Structures TA at OSU  
 📍 &nbsp; Located in Seattle, WA  
 
 
@@ -154,9 +154,9 @@
 </span>
 
 #### Career 1.0
-👩‍🔬 Formerly a Research Scientist at UW  
-📄 Co-authored 13 publications in peer-reviewed journals  
-🐊 B.S. Chemistry from UF
+👩‍🔬 &nbsp; Formerly a Research Scientist at UW  
+📄 &nbsp; Co-authored 14 publications in peer-reviewed journals  
+🐊 &nbsp; B.S. Chemistry from UF
 
 <!--
 **lfbettcher/lfbettcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
