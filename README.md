@@ -8,13 +8,7 @@
 #### I am currently:
 💻 &nbsp; Software Engineer at Delphix  
 🎓 &nbsp; B.S. Computer Science Senior at OSU  
-👩‍🏫 &nbsp; Data Structures TA at OSU  
 📍 &nbsp; Located in Seattle, WA  
-
-
-<p><b>I completed a 20-week pre-apprenticeship technical training: </b>
-  <br >See my work <a href="https://github.com/lfbettcher/Launch-Academy#readme">here</a>.
-</p>
 
 #### I have experience with:
 ##### Languages
@@ -152,6 +146,10 @@
     <img src="https://gradle.com/wp-content/themes/fuel/assets/img/branding/gradle-elephant-icon-dark-green.svg" alt="gradle" width="32px" />
   </a>
 </span>
+
+&nbsp;  
+<p><b>I completed a 20-week pre-apprenticeship technical training: </b>See my work <a href="https://github.com/lfbettcher/Launch-Academy#readme">here</a>.
+</p>
 
 #### Career 1.0
 👩‍🔬 &nbsp; Formerly a Research Scientist at UW  
