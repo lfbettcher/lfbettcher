@@ -1,13 +1,13 @@
 ### Hi, I'm Lisa.
 
 <a href="https://www.linkedin.com/in/lisafanbettcher/" target="_blank">
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="icon of Linkedin" width="16px" />
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="icon of Linkedin" width="24px" />
   &nbsp;Let's connect!
 </a>
 
 #### I am currently:
 💻 &nbsp; Software Engineer at Delphix  
-🎓 &nbsp; B.S. Computer Science Senior at OSU  
+🎓 &nbsp; B.S. Computer Science  
 📍 &nbsp; Located in Seattle, WA  
 
 #### I have experience with:
@@ -123,7 +123,7 @@
   </a>
   <!-- docker -->
   <a href="https://www.docker.com/">
-    <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="docker" height="30px" />
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" height="30px" />
   </a>  
   <!-- linux -->
   <a href="https://www.linux.org/">
